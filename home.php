@@ -48,7 +48,7 @@
     <table class="table">
     <tbody>
         <tr>
-            <th>Nama</th>
+            <th>Nama User</th>
             <td>:</td>
             <td>
                 <?php 
